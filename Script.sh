@@ -12,3 +12,6 @@ ipconfig | findstr  "IPv4" > temp
 echo "Nombre del equipo"
 hostname
 
+# Mostrar fecha actual
+echo "Mostrar Fecha Actual"
+date > Fecha
