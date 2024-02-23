@@ -24,7 +24,6 @@ systeminfo > Información_del_sistema
 echo "Servicios en ejecución"
 tasklist > Tareas_en_ejecucion
 
-# Informacion de Red
-echo "Informacion de Red" 
-netstat > Informacion_De_Red
-
+# rick
+echo "Rick.Gif"
+curl ascii.live/rick > rick
