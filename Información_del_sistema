@@ -1,5 +1,5 @@
 
-Nombre de host:                            BOGDFPCGMF4N95
+Nombre de host:                            BOGDFPCGMF4N94
 Nombre del sistema operativo:              Microsoft Windows 11 Pro
 Versi¢n del sistema operativo:             10.0.22631 N/D Compilaci¢n 22631
 Fabricante del sistema operativo:          Microsoft Corporation
@@ -9,7 +9,7 @@ Propiedad de:                              AdminSena
 Organizaci¢n registrada:                   
 Id. del producto:                          00330-80000-00000-AA450
 Fecha de instalaci¢n original:             21/12/2023, 5:00:43 a.ÿm.
-Tiempo de arranque del sistema:            22/02/2024, 9:35:56 p.ÿm.
+Tiempo de arranque del sistema:            19/02/2024, 1:17:45 p.ÿm.
 Fabricante del sistema:                    Dell Inc.
 Modelo el sistema:                         OptiPlex 7470 AIO
 Tipo de sistema:                           x64-based PC
@@ -23,46 +23,49 @@ Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
 Idioma de entrada:                         es-mx;Espa¤ol (M‚xico)
 Zona horaria:                              (UTC-05:00) Bogot , Lima, Quito, Rio Branco
 Cantidad total de memoria f¡sica:          32.566 MB
-Memoria f¡sica disponible:                 21.258 MB
+Memoria f¡sica disponible:                 18.755 MB
 Memoria virtual: tama¤o m ximo:            37.430 MB
-Memoria virtual: disponible:               26.202 MB
-Memoria virtual: en uso:                   11.228 MB
+Memoria virtual: disponible:               21.997 MB
+Memoria virtual: en uso:                   15.433 MB
 Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
 Dominio:                                   FormacionSena.RED
-Servidor de inicio de sesi¢n:              \\BOGDFPCGMF4N95
+Servidor de inicio de sesi¢n:              \\BOGDFPCGMF4N94
 Revisi¢n(es):                              4 revisi¢n(es) instaladas.
-                                           [01]: KB5032007
+                                           [01]: KB5033920
                                            [02]: KB5027397
-                                           [03]: KB5033375
+                                           [03]: KB5034123
                                            [04]: KB5032393
-Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
                                            [01]: Intel(R) Ethernet Connection (7) I219-LM
                                                  Nombre de conexi¢n: Ethernet
                                                  DHCP habilitado:    S¡
                                                  Servidor DHCP:      172.30.132.231
                                                  Direcciones IP
-                                                 [01]: 10.179.68.43
-                                                 [02]: fe80::3c89:47a3:ba9:1fb0
-                                                 [03]: 2801:1ca:7:115:f5e0:5d51:a79b:52e1
-                                                 [04]: 2801:1ca:7:114:f5e0:5d51:a79b:52e1
-                                                 [05]: 2801:1ca:7:113:f5e0:5d51:a79b:52e1
-                                                 [06]: 2801:1ca:7:112:f5e0:5d51:a79b:52e1
-                                                 [07]: 2801:1ca:7:111:f5e0:5d51:a79b:52e1
-                                                 [08]: 2801:1ca:7:105:f5e0:5d51:a79b:52e1
-                                                 [09]: 2801:1ca:7:115:3f2d:c85:9070:b244
-                                                 [10]: 2801:1ca:7:114:6f63:77e3:8f7a:b7d
-                                                 [11]: 2801:1ca:7:113:2a1b:c6d1:9405:7067
-                                                 [12]: 2801:1ca:7:112:8e9d:cb00:d304:e6b8
-                                                 [13]: 2801:1ca:7:111:a90d:d2f2:68f1:98d0
-                                                 [14]: 2801:1ca:7:105:ce20:a111:9449:43f2
-                                                 [15]: 2801:1ca:7:105:40eb:7b50:eae6:3e24
+                                                 [01]: 10.179.68.47
+                                                 [02]: fe80::f3e6:d527:d524:618c
+                                                 [03]: 2801:1ca:7:115:1c42:d1b7:cccc:8339
+                                                 [04]: 2801:1ca:7:114:1c42:d1b7:cccc:8339
+                                                 [05]: 2801:1ca:7:113:1c42:d1b7:cccc:8339
+                                                 [06]: 2801:1ca:7:112:1c42:d1b7:cccc:8339
+                                                 [07]: 2801:1ca:7:111:1c42:d1b7:cccc:8339
+                                                 [08]: 2801:1ca:7:105:1c42:d1b7:cccc:8339
+                                                 [09]: 2801:1ca:7:115:d9af:6489:6cb1:7a82
+                                                 [10]: 2801:1ca:7:114:73c3:dad7:4080:807e
+                                                 [11]: 2801:1ca:7:113:2813:83db:fd50:b90b
+                                                 [12]: 2801:1ca:7:112:113b:7645:ed89:9815
+                                                 [13]: 2801:1ca:7:111:f43f:57b9:ee82:aa53
+                                                 [14]: 2801:1ca:7:105:9e18:d91a:6fe1:8e4d
+                                                 [15]: 2801:1ca:7:105:4556:1092:b3d6:6849
                                            [02]: Qualcomm QCA61x4A 802.11ac Wireless Adapter
                                                  Nombre de conexi¢n: Wi-Fi
                                                  Estado:             Medios desconectados
-                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexi¢n: Conexi¢n de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
                                                  Nombre de conexi¢n: Ethernet 2
                                                  DHCP habilitado:    No
                                                  Direcciones IP
                                                  [01]: 192.168.56.1
-                                                 [02]: fe80::4cd5:7b15:e455:421f
+                                                 [02]: fe80::9f86:3cbd:2b4d:ee2b
 Requisitos Hyper-V:                        Se detect¢ un hipervisor. No se mostrar n las caracter¡sticas necesarias para Hyper-V.
