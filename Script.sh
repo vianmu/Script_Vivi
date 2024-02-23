@@ -23,3 +23,8 @@ systeminfo > Información_del_sistema
 # Muestra los servicios en ejecución
 echo "Servicios en ejecución"
 tasklist > Tareas_en_ejecucion
+
+# Informacion de Red
+echo "Informacion de Red" 
+netstat > Informacion_De_Red
+
