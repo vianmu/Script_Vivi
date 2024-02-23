@@ -15,3 +15,9 @@ hostname
 # Mostrar fecha actual
 echo "Mostrar Fecha Actual"
 date > Fecha
+
+# Mostrar información del equipo
+echo "Información del equipo"
+systeminfo > Información_del_sistema
+
+# 
